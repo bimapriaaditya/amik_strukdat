@@ -12,5 +12,7 @@ public class App {
         // Tugas2.main();
 
         // Tugas 3 : Insertion Sort
+        InsertionSort Tugas3 = new InsertionSort();
+        Tugas3.main();
     }
 }
