@@ -1,5 +1,16 @@
 public class App {
+    Console console = new Console();
+
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, AMIK!");
+
+        // Tugas 1 : Bubble Sort
+        // BubbleSort Tugas1 = new BubbleSort();
+        // Tugas1.main();
+
+        // Tugas 2 : Selection Sort
+        // SelectionSort Tugas2 = new SelectionSort();
+        // Tugas2.main();
+
+        // Tugas 3 : Insertion Sort
     }
 }
