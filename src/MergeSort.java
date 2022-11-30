@@ -49,7 +49,7 @@ public class MergeSort extends App {
     }
 
     public void main() {
-        int array[] = { 8, 23, 18, 10, 7, 21 };
+        int array[] = { 7, 23, 18, 10, 7, 21 };
         System.out.println("Tugas 3 : InsertionSort");
 
         System.out.print("Data Acak : ");
