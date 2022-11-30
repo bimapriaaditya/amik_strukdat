@@ -12,7 +12,12 @@ public class App {
         // Tugas2.main();
 
         // Tugas 3 : Insertion Sort
-        InsertionSort Tugas3 = new InsertionSort();
-        Tugas3.main();
+        // InsertionSort Tugas3 = new InsertionSort();
+        // Tugas3.main();
+
+        // Tugas 4 : Merge Sort
+        MergeSort Tugas4 = new MergeSort();
+        Tugas4.main();
+
     }
 }
