@@ -37,5 +37,6 @@ public class SelectionSort extends App {
 
         System.out.print("Hasil Sort : ");
         console.Int(array);
+        System.out.println("");
     }
 }
