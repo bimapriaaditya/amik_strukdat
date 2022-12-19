@@ -37,7 +37,7 @@ class BST
     {
         // secara default (permanggilan pertama) current diset null dan maka fungsi ini dibaca pertamakali
         if (current == null) {
-            // System.out.println("Data " + data + " berhasil ditambahkan ke dalam tree");
+            System.out.println("Data " + data + " berhasil ditambahkan ke dalam tree");
             // Menyimpan nilai bobot pada sebuah node
             return new Node(data);
         }
